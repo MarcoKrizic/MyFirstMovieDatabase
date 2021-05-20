@@ -1,0 +1,5 @@
+{
+    "ConnectionStrings": {
+        "Assignment2DB": "Data Source=(LocalDB)\\MSSQLLocalDB;Initial Catalog=Assignment2DB;Integrated Security=True"
+    }
+}
